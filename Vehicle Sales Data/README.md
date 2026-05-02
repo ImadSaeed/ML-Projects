@@ -9,7 +9,7 @@
 
 > A complete end-to-end machine learning pipeline for predicting used car prices from US auto auction data (2014–2015), covering EDA, preprocessing, regression, and classification across **22 models**.
 
----
+> Full Project:- [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/imadsaeed123/vehicle-sale-data)
 
 ## 📑 Table of Contents
 
