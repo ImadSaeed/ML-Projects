@@ -272,7 +272,7 @@ X_train, X_test, y_train, y_test = preprocess_vehicle_data_multiclass('car_price
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/ImadSaeed/ML-Projects/blob/main/Vehicle%20Sales%20Data/LICENSE.md).
 
 ---
 
@@ -286,8 +286,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Kaggle**: [@yourkaggleusername](https://www.kaggle.com/yourkaggleusername)
+- **GitHub**: [@yourusername](https://github.com/ImadSaeed)
+- **Kaggle**: [@yourkaggleusername](https://www.kaggle.com/imadsaeed123)
 
 ---
 
